@@ -1,4 +1,4 @@
-Implementation of Convolutional Neural Network (CNN) with Keras  
+# Implementation of Convolutional Neural Network (CNN) with Keras  
 
 All the parameters will be configured from the json file.
 
