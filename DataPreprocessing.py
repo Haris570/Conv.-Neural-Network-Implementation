@@ -2,9 +2,9 @@
 """
 Created on Tue Apr 30 12:30:39 2019
 
-@author: Haris
+@author: haris
 """
-
+######## Importing req. libraries  ##########
 
 import os 
 import cv2
@@ -132,10 +132,6 @@ class DataPreparation():
 
         
         
-
-
-
-
 
 
 logger=logging.getLogger(__name__)
